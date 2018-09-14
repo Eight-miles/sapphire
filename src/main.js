@@ -6,7 +6,7 @@ Vue.component(Header.name, Header)
 Vue.component(Tabbar.name, Tabbar);
 Vue.component(TabItem.name, TabItem);
 
-//导入mui的css 样式
+//导入mui的css 样式  
 import './lib/dist/css/mui.css'
 
 
